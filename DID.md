@@ -3,7 +3,7 @@ version: 1
 title: Metaverse Identity on Layer 2
 status: Propose
 type: Research
-author: Yu Xiong <hudson@ethereum.org>, Frankie Lai <mb@ethereum.org>, et al.
+author: Frankie Lai <ka.lai@surrey.ac.uk>, et al.
 created: 2023-02-26
 ---
 
@@ -18,6 +18,10 @@ The project aims to develop a layer 2 solution for digital identity management i
 - To establish a new standard for identity management in the Metaverse ecosystem.
 
 ## Outcomes
+
+This project aims to create a new layer 2 solution to address the issue of digital identity in the Metaverse, which is an emerging and rapidly growing field in the Ethereum ecosystem. By providing a secure and decentralized digital identity solution, the project will enable users to interact with Metaverse assets and services with greater trust and security. This will ultimately help to build a stronger and more robust Ethereum ecosystem by promoting the use and adoption of decentralized applications and services.
+
+Additionally, the project's research findings and technical developments may also contribute to the broader Ethereum community by advancing the knowledge and understanding of layer 2 solutions and their potential applications. The project team also plans to share their research findings and technical developments with the community through publications and presentations at relevant conferences and events. This will enable other developers and researchers in the Ethereum ecosystem to build upon the project's work and contribute to the continued growth and development of the ecosystem.
 
 - A functional layer 2 solution for managing digital identities in the Metaverse, tested and ready for deployment.
 - A new standard for identity management in the Metaverse ecosystem, recognized and adopted by industry stakeholders.
@@ -41,6 +45,8 @@ Frankie K.C. Lai, [linkedIn](https://www.linkedin.com/in/frankiekclai/)
 A blockchain developer and consultant, will be the principal researcher leading this project. Frankie has extensive experience in the blockchain industry, having worked on various projects related to digital identity, smart contracts, and decentralized finance. Notably, he was involved in the Academic Certificate Verification Platform ([ACVP](https://www.acvp.hk/verification)) project in Hong Kong, where he served as the representative for The University of Hong Kong.
 
 In addition to his work in the industry, Frankie is also the Blockchain Academy Operations Manager at the University of Surrey, where he teaches students how to write smart contracts and create their own metaverse. With his expertise in both blockchain technology and education, Frankie is well-suited to lead this research project and ensure its success
+
+Blog post: https://frankielai.com/blog
 
 ## Methodology
 
